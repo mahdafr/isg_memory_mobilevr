@@ -1,9 +1,20 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+CardboardVR/[Ll]ibrary/
+CardboardVR/[Tt]emp/
+CardboardVR/[Oo]bj/
+CardboardVR/[Bb]uild/
+CardboardVR/[Bb]uilds/
+CardboardVR/Assets/AssetStoreTools*
+
+GearVR/[Ll]ibrary/
+GearVR/[Tt]emp/
+GearVR/[Oo]bj/
+GearVR/[Bb]uild/
+GearVR/[Bb]uilds/
+GearVR/Assets/AssetStoreTools*
+
+# Removing those meta c# files from unity
+*.cs.meta
+*.meta
 
 # Visual Studio cache directory
 .vs/
